@@ -2,7 +2,7 @@
 Luxury fitness landing page with cinematic UI and modern animations.
 
 ## Live Demo
-https://apex-gym4u.netlify.app/
+https://apexfitin.netlify.app
 
 ## Features
 - Responsive design
